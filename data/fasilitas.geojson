@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "name": "Fasilitas Desa Raba",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm-way-211290919",
+        "name": "Balai Desa Raba",
+        "category": "pemerintahan",
+        "source": "OpenStreetMap",
+        "sourceId": "way/211290919",
+        "osm_tags": "amenity=townhall; building=public",
+        "description": "Kantor/balai pemerintahan Desa Raba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.8617242, -8.5596816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm-node-1980769815",
+        "name": "SMAKN Kombo",
+        "category": "pendidikan",
+        "source": "OpenStreetMap",
+        "sourceId": "node/1980769815",
+        "osm_tags": "amenity=school",
+        "description": "Sekolah Menengah Atas Kejuruan Negeri Kombo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.8618731, -8.5588507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm-way-211290077",
+        "name": "SDN Kombo",
+        "category": "pendidikan",
+        "source": "OpenStreetMap",
+        "sourceId": "way/211290077",
+        "osm_tags": "amenity=school; building=school; name=SDN",
+        "description": "Sekolah Dasar Negeri Kombo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.8621667, -8.5603205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm-node-2213021766",
+        "name": "SDN Lesu",
+        "category": "pendidikan",
+        "source": "OpenStreetMap",
+        "sourceId": "node/2213021766",
+        "osm_tags": "amenity=school",
+        "description": "Sekolah Dasar Negeri Lesu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.8843788, -8.5731270]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm-node-2213104343",
+        "name": "Masjid Desa Raba",
+        "category": "keagamaan",
+        "source": "OpenStreetMap",
+        "sourceId": "node/2213104343",
+        "osm_tags": "amenity=place_of_worship; building=mosque; religion=muslim",
+        "description": "Masjid di wilayah Desa Raba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.8634921, -8.5603393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm-node-2213053196",
+        "name": "Mushalla Lesu",
+        "category": "keagamaan",
+        "source": "OpenStreetMap",
+        "sourceId": "node/2213053196",
+        "osm_tags": "amenity=place_of_worship; building=mosque; religion=muslim",
+        "description": "Mushalla di Dusun Lesu, Desa Raba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.8853987, -8.5726373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm-node-6689843985",
+        "name": "Pemandangan Desa Raba",
+        "category": "fasilitas_umum",
+        "source": "OpenStreetMap",
+        "sourceId": "node/6689843985",
+        "osm_tags": "tourism=viewpoint",
+        "description": "Titik pemandangan di Desa Raba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.8773914, -8.5684420]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm-node-2935765526",
+        "name": "Desa Raba",
+        "category": "administrasi",
+        "subtype": "pusat_desa",
+        "source": "OpenStreetMap",
+        "sourceId": "node/2935765526",
+        "osm_tags": "admin_level=7; name=Raba; place=village; ref=52.06.05.2008",
+        "description": "Pusat/ibukota Desa Raba, Kecamatan Wawo, Kabupaten Bima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.8659959, -8.5599208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm-node-2213016657",
+        "name": "Dusun Lesu",
+        "category": "administrasi",
+        "subtype": "dusun",
+        "source": "OpenStreetMap",
+        "sourceId": "node/2213016657",
+        "osm_tags": "name=Lesu; place=isolated_dwelling",
+        "description": "Dusun Lesu, bagian dari Desa Raba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.8845545, -8.5735055]
+      }
+    }
+  ]
+}
