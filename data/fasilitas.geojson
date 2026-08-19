@@ -25,22 +25,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "osm-node-1980769815",
-        "name": "SMAKN Kombo",
-        "category": "pendidikan",
-        "source": "OpenStreetMap",
-        "sourceId": "node/1980769815",
-        "osm_tags": "amenity=school",
-        "description": "Sekolah Menengah Atas Kejuruan Negeri Kombo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [118.8618731, -8.5588507]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "osm-way-211290077",
         "name": "SDN Kombo",
         "category": "pendidikan",
@@ -132,7 +116,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [118.8659959, -8.5599208]
+        "coordinates": [118.8617242, -8.5596816]
       }
     },
     {
@@ -149,7 +133,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [118.8845545, -8.5735055]
+        "coordinates": [118.884889, -8.572882]
       }
     }
   ]
